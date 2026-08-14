@@ -1,4 +1,4 @@
-# Lab 4 - Git and GitHub
+# Lab 4 - Git and GitHub - Conflict Branch
 
 This project demonstrates source code management using Git and GitHub.
 
