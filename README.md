@@ -9,3 +9,7 @@ This project demonstrates source code management using Git and GitHub.
 - Pull requests
 - Merging
 - Conflict resolution
+
+## New Feature
+
+This feature was developed using a separate Git branch.
