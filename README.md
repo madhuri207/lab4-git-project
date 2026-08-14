@@ -1,4 +1,4 @@
-# Lab 4 - Git and GitHub - Main Branch
+# Lab 4 - Git and GitHub
 
 This project demonstrates source code management using Git and GitHub.
 
